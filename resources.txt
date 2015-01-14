@@ -1,0 +1,3 @@
+Resources used: 
+
+MDN javascript reference (https://developer.mozilla.org/en-US/docs/Web/JavaScript and sub-pages)
